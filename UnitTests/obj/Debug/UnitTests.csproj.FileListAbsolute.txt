@@ -1,0 +1,14 @@
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.execution.desktop.dll
+C:\dev\xUnitTesting\UnitTests\bin\Debug\UnitTests.dll
+C:\dev\xUnitTesting\UnitTests\bin\Debug\UnitTests.pdb
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.abstractions.dll
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.assert.dll
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.core.dll
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.abstractions.xml
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.assert.pdb
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.assert.xml
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.core.pdb
+C:\dev\xUnitTesting\UnitTests\bin\Debug\xunit.core.xml
+C:\dev\xUnitTesting\UnitTests\obj\Debug\UnitTests.dll
+C:\dev\xUnitTesting\UnitTests\obj\Debug\UnitTests.pdb
+c:\dev\xUnitTesting\UnitTests\obj\Debug\UnitTests.csprojResolveAssemblyReference.cache
